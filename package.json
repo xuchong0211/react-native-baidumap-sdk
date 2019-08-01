@@ -1,5 +1,5 @@
 {
-  "name": "react-native-baidumap-sdk",
+  "name": "react-native-baidumap-sdk-cxu",
   "description": "React Native BaiduMap SDK for Android + iOS",
   "keywords": [
     "react-native",
@@ -9,10 +9,10 @@
     "baidumap"
   ],
   "version": "0.6.1-2",
-  "author": "7c00 <i@7c00.cc>",
+  "author": "7c00 <i@7c00.cc> && cxu",
   "repository": {
     "type": "git",
-    "url": "https://github.com/qiuxiang/react-native-baidumap-sdk"
+    "url": "https://github.com/xuchong0211/react-native-baidumap-sdk"
   },
   "license": "MIT",
   "files": [
